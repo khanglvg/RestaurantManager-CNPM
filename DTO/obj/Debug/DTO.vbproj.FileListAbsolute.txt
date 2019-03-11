@@ -1,0 +1,28 @@
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DTO\bin\Debug\DTO.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DTO\bin\Debug\DTO.pdb
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DTO\bin\Debug\DTO.xml
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DTO\obj\Debug\DTO.vbprojResolveAssemblyReference.cache
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DTO\obj\Debug\DTO.Resources.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DTO\obj\Debug\DTO.vbproj.GenerateResource.Cache
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DTO\obj\Debug\DTO.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DTO\obj\Debug\DTO.xml
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DTO\obj\Debug\DTO.pdb
+E:\Downloads\DoAnNMCNPM\DTO\bin\Debug\DTO.dll
+E:\Downloads\DoAnNMCNPM\DTO\bin\Debug\DTO.pdb
+E:\Downloads\DoAnNMCNPM\DTO\bin\Debug\DTO.xml
+E:\Downloads\DoAnNMCNPM\DTO\obj\Debug\DTO.vbprojResolveAssemblyReference.cache
+E:\Downloads\DoAnNMCNPM\DTO\obj\Debug\DTO.Resources.resources
+E:\Downloads\DoAnNMCNPM\DTO\obj\Debug\DTO.vbproj.GenerateResource.Cache
+E:\Downloads\DoAnNMCNPM\DTO\obj\Debug\DTO.dll
+E:\Downloads\DoAnNMCNPM\DTO\obj\Debug\DTO.xml
+E:\Downloads\DoAnNMCNPM\DTO\obj\Debug\DTO.pdb
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DTO\bin\Debug\DTO.dll
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DTO\bin\Debug\DTO.pdb
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DTO\bin\Debug\DTO.xml
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DTO\obj\Debug\DTO.vbprojAssemblyReference.cache
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DTO\obj\Debug\DTO.Resources.resources
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DTO\obj\Debug\DTO.vbproj.GenerateResource.cache
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DTO\obj\Debug\DTO.vbproj.CoreCompileInputs.cache
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DTO\obj\Debug\DTO.dll
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DTO\obj\Debug\DTO.xml
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DTO\obj\Debug\DTO.pdb

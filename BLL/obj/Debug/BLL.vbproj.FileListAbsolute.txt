@@ -1,0 +1,62 @@
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\BLL\bin\Debug\BLL.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\BLL\bin\Debug\BLL.pdb
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\BLL\bin\Debug\BLL.xml
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\BLL\bin\Debug\DAL.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\BLL\bin\Debug\DTO.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\BLL\bin\Debug\DAL.pdb
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\BLL\bin\Debug\DAL.xml
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\BLL\bin\Debug\DTO.pdb
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\BLL\bin\Debug\DTO.xml
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\BLL\obj\Debug\BLL.Resources.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\BLL\obj\Debug\BLL.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\BLL\obj\Debug\BLL.xml
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\BLL\obj\Debug\BLL.pdb
+E:\Downloads\DoAnNMCNPM\BLL\bin\Debug\BLL.dll
+E:\Downloads\DoAnNMCNPM\BLL\bin\Debug\BLL.pdb
+E:\Downloads\DoAnNMCNPM\BLL\bin\Debug\BLL.xml
+E:\Downloads\DoAnNMCNPM\BLL\bin\Debug\DAL.dll
+E:\Downloads\DoAnNMCNPM\BLL\bin\Debug\DTO.dll
+E:\Downloads\DoAnNMCNPM\BLL\bin\Debug\DAL.pdb
+E:\Downloads\DoAnNMCNPM\BLL\bin\Debug\DAL.xml
+E:\Downloads\DoAnNMCNPM\BLL\bin\Debug\DTO.pdb
+E:\Downloads\DoAnNMCNPM\BLL\bin\Debug\DTO.xml
+E:\Downloads\DoAnNMCNPM\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+E:\Downloads\DoAnNMCNPM\BLL\obj\Debug\BLL.Resources.resources
+E:\Downloads\DoAnNMCNPM\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+E:\Downloads\DoAnNMCNPM\BLL\obj\Debug\BLL.dll
+E:\Downloads\DoAnNMCNPM\BLL\obj\Debug\BLL.xml
+E:\Downloads\DoAnNMCNPM\BLL\obj\Debug\BLL.pdb
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\bin\Debug\BLL.dll
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\bin\Debug\BLL.pdb
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\bin\Debug\BLL.xml
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\bin\Debug\DAL.dll
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\bin\Debug\DTO.dll
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\bin\Debug\DAL.pdb
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\bin\Debug\DAL.xml
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\bin\Debug\DTO.pdb
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\bin\Debug\DTO.xml
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\obj\Debug\BLL.vbprojResolveAssemblyReference.cache
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\obj\Debug\BLL.Resources.resources
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\obj\Debug\BLL.vbproj.GenerateResource.Cache
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\obj\Debug\BLL.dll
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\obj\Debug\BLL.xml
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\obj\Debug\BLL.pdb
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\bin\Debug\BLL.dll
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\bin\Debug\BLL.pdb
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\bin\Debug\BLL.xml
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\bin\Debug\DAL.dll
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\bin\Debug\DTO.dll
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\bin\Debug\DAL.pdb
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\bin\Debug\DAL.xml
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\bin\Debug\DTO.pdb
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\bin\Debug\DTO.xml
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\obj\Debug\BLL.vbprojAssemblyReference.cache
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\obj\Debug\BLL.Resources.resources
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\obj\Debug\BLL.vbproj.GenerateResource.cache
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\obj\Debug\BLL.vbproj.CoreCompileInputs.cache
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\obj\Debug\BLL.vbproj.CopyComplete
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\obj\Debug\BLL.dll
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\obj\Debug\BLL.xml
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\BLL\obj\Debug\BLL.pdb

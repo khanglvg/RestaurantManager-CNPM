@@ -1,0 +1,50 @@
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DAL\bin\Debug\DAL.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DAL\bin\Debug\DAL.pdb
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DAL\bin\Debug\DAL.xml
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DAL\bin\Debug\DTO.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DAL\bin\Debug\DTO.pdb
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DAL\bin\Debug\DTO.xml
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DAL\obj\Debug\DAL.Resources.resources
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DAL\obj\Debug\DAL.dll
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DAL\obj\Debug\DAL.xml
+C:\Users\TruongThanh\Documents\Visual Studio 2015\Projects\DoAnNMCNPM\DAL\obj\Debug\DAL.pdb
+E:\Downloads\DoAnNMCNPM\DAL\bin\Debug\DAL.dll
+E:\Downloads\DoAnNMCNPM\DAL\bin\Debug\DAL.pdb
+E:\Downloads\DoAnNMCNPM\DAL\bin\Debug\DAL.xml
+E:\Downloads\DoAnNMCNPM\DAL\bin\Debug\DTO.dll
+E:\Downloads\DoAnNMCNPM\DAL\bin\Debug\DTO.pdb
+E:\Downloads\DoAnNMCNPM\DAL\bin\Debug\DTO.xml
+E:\Downloads\DoAnNMCNPM\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+E:\Downloads\DoAnNMCNPM\DAL\obj\Debug\DAL.Resources.resources
+E:\Downloads\DoAnNMCNPM\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+E:\Downloads\DoAnNMCNPM\DAL\obj\Debug\DAL.dll
+E:\Downloads\DoAnNMCNPM\DAL\obj\Debug\DAL.xml
+E:\Downloads\DoAnNMCNPM\DAL\obj\Debug\DAL.pdb
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\bin\Debug\DAL.dll
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\bin\Debug\DAL.pdb
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\bin\Debug\DAL.xml
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\bin\Debug\DTO.dll
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\bin\Debug\DTO.pdb
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\bin\Debug\DTO.xml
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\obj\Debug\DAL.vbprojResolveAssemblyReference.cache
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\obj\Debug\DAL.Resources.resources
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\obj\Debug\DAL.vbproj.GenerateResource.Cache
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\obj\Debug\DAL.dll
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\obj\Debug\DAL.xml
+E:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\obj\Debug\DAL.pdb
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\bin\Debug\DAL.dll
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\bin\Debug\DAL.pdb
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\bin\Debug\DAL.xml
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\bin\Debug\DTO.dll
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\bin\Debug\DTO.pdb
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\bin\Debug\DTO.xml
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\obj\Debug\DAL.vbprojAssemblyReference.cache
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\obj\Debug\DAL.Resources.resources
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\obj\Debug\DAL.vbproj.GenerateResource.cache
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\obj\Debug\DAL.vbproj.CoreCompileInputs.cache
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\obj\Debug\DAL.vbproj.CopyComplete
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\obj\Debug\DAL.dll
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\obj\Debug\DAL.xml
+D:\UIT\2.Sophomore\2nd term\Introduction to Software Engineering\DoAnNMCNPM\DAL\obj\Debug\DAL.pdb
